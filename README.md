@@ -18,3 +18,15 @@ Gradle Kotlin DSL features:
 - Respositories of Aliyun for Chinese developers
 - Task for run multiple Java applications besides default run
 - Passing arguments to Java applications
+
+Run:
+```
+$ gradle clean build
+$ gradle run --args="--input ../ml-latest-small/movies.csv --output filter-output"
+$ gradle averageRating --args="--movies ../ml-latest-small/movies.csv --ratings ../ml-latest-small/ratings.csv"
+```
+
+Datasets:
+Movielens data downloaded from:
+https://grouplens.org/datasets/movielens/
+
