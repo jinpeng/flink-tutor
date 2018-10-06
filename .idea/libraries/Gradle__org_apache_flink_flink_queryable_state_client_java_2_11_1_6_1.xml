@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.flink:flink-queryable-state-client-java_2.11:1.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-queryable-state-client-java_2.11/1.6.1/47af18d32feaad5392c2bc48ef402ef841dc82b5/flink-queryable-state-client-java_2.11-1.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.flink/flink-queryable-state-client-java_2.11/1.6.1/92e2a7e342b18e5068f3b2883d6fba5d8362e199/flink-queryable-state-client-java_2.11-1.6.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
