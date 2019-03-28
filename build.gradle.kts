@@ -16,10 +16,10 @@ application {
 }
 
 dependencies {
-    compile ("org.apache.flink:flink-core:1.6.1")
-    compile ("org.apache.flink:flink-java:1.6.1")
-    compile ("org.apache.flink:flink-streaming-java_2.11:1.6.1")
-    compile ("org.slf4j:slf4j-log4j12:1.7.7")
+    compile ("org.apache.flink:flink-core:1.7.2")
+    compile ("org.apache.flink:flink-java:1.7.2")
+    compile ("org.apache.flink:flink-streaming-java_2.11:1.7.2")
+    compile ("org.slf4j:slf4j-log4j12:1.7.26")
     compile ("log4j:log4j:1.2.17")
 
     testCompile("junit:junit:4.12")

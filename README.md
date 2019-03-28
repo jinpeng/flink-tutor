@@ -1,8 +1,8 @@
 # flink-tutor
 Apache Flink tutorial code. 
 Using the following techniques:
-- Apache Flink 1.6.1 (Scala 2.11)
-- Gradle 4.10.2
+- Apache Flink 1.7.2 (Scala 2.11)
+- Gradle 5.3
 - Gradle Kotlin DSL
 
 Flink features:
